@@ -1,4 +1,8 @@
-### Hi there 👋 I am Turan Ulus
+### Hi there 👋 I am Turan Ulus</br>
+
+💬 Ask me about Java, Spring Boot, Microservices, AWS</br>
+📫 How to reach me: turanulus at gmail dot com</br>
+📖 You can see my articles <a href="https://medium.com/@turanulus">here</a></br>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/turanulus/">
